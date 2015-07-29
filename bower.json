@@ -1,0 +1,28 @@
+{
+  "name": "jmap-js",
+  "version": "0.0.1",
+  "authors": [
+    "Neil Jenkins <neilj@fastmail.fm>"
+  ],
+  "description": "JMAP-JS is an implementation of the JMAP mail, contacts and calendars model.",
+  "main": "build/JMAP.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jmap",
+    "javascript",
+    "mail",
+    "contacts",
+    "calendars"
+  ],
+  "license": "MIT",
+  "homepage": "http://jmap.io/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
